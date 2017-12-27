@@ -1,0 +1,31 @@
+// 兼容一下css在weex上的写法
+
+@mixin border($px,$style,$color) {
+  border-width: $px;
+  border-style: $style;
+  border-color: $color;
+}
+
+@mixin border-top($px,$style,$color) {
+  border-top-width: $px;
+  border-top-style: $style;
+  border-top-color: $color;
+}
+
+@mixin border-right($px,$style,$color) {
+  border-right-width: $px;
+  border-right-style: $style;
+  border-right-color: $color;
+}
+
+@mixin border-bottom($px,$style,$color) {
+  border-bottom-width: $px;
+  border-bottom-style: $style;
+  border-bottom-color: $color;
+}
+
+@mixin border-left($px,$style,$color) {
+  border-left-width: $px;
+  border-left-style: $style;
+  border-left-color: $color;
+}

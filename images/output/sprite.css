@@ -1,0 +1,150 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-100Mliuliang {
+  background-image: url(sprite.png);
+  background-position: -736px -123px;
+  width: 261px;
+  height: 113px;
+}
+.icon-100coin {
+  background-image: url(sprite.png);
+  background-position: -736px -246px;
+  width: 242px;
+  height: 111px;
+}
+.icon-100coin_tips {
+  background-image: url(sprite.png);
+  background-position: -736px -610px;
+  width: 257px;
+  height: 61px;
+}
+.icon-100huafei {
+  background-image: url(sprite.png);
+  background-position: -736px -367px;
+  width: 201px;
+  height: 129px;
+}
+.icon-10huafei {
+  background-image: url(sprite.png);
+  background-position: -736px 0px;
+  width: 263px;
+  height: 113px;
+}
+.icon-back {
+  background-image: url(sprite.png);
+  background-position: -282px -807px;
+  width: 110px;
+  height: 55px;
+}
+.icon-bangdan {
+  background-image: url(sprite.png);
+  background-position: 0px -685px;
+  width: 530px;
+  height: 52px;
+}
+.icon-close {
+  background-image: url(sprite.png);
+  background-position: -656px -515px;
+  width: 67px;
+  height: 67px;
+}
+.icon-coin {
+  background-image: url(sprite.png);
+  background-position: -534px -515px;
+  width: 112px;
+  height: 73px;
+}
+.icon-confirm {
+  background-image: url(sprite.png);
+  background-position: 0px -904px;
+  width: 209px;
+  height: 94px;
+}
+.icon-go {
+  background-image: url(sprite.png);
+  background-position: -219px -904px;
+  width: 201px;
+  height: 90px;
+}
+.icon-goCoin {
+  background-image: url(sprite.png);
+  background-position: -539px -622px;
+  width: 158px;
+  height: 45px;
+}
+.icon-guize {
+  background-image: url(sprite.png);
+  background-position: 0px -747px;
+  width: 488px;
+  height: 50px;
+}
+.icon-index {
+  background-image: url(sprite.png);
+  background-position: -736px -506px;
+  width: 209px;
+  height: 94px;
+}
+.icon-input_background {
+  background-image: url(sprite.png);
+  background-position: 0px -807px;
+  width: 272px;
+  height: 87px;
+}
+.icon-mine-2 {
+  background-image: url(sprite.png);
+  background-position: -534px -432px;
+  width: 182px;
+  height: 73px;
+}
+.icon-mine {
+  background-image: url(sprite.png);
+  background-position: -430px -904px;
+  width: 201px;
+  height: 90px;
+}
+.icon-mine_disabled {
+  background-image: url(sprite.png);
+  background-position: -641px -904px;
+  width: 201px;
+  height: 90px;
+}
+.icon-open {
+  background-image: url(sprite.png);
+  background-position: -534px -216px;
+  width: 192px;
+  height: 206px;
+}
+.icon-open_disabled {
+  background-image: url(sprite.png);
+  background-position: -534px 0px;
+  width: 192px;
+  height: 206px;
+}
+.icon-popup_background {
+  background-image: url(sprite.png);
+  background-position: 0px 0px;
+  width: 524px;
+  height: 612px;
+}
+.icon-shuoming {
+  background-image: url(sprite.png);
+  background-position: 0px -622px;
+  width: 529px;
+  height: 53px;
+}
